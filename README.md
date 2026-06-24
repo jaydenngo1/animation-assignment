@@ -1,2 +1,2 @@
 # animation-assignment
-animation assignment for programming class, made my Jayden and Jonathan, class beta
+animation assignment for programming class, made by Jayden and Jonathan, class beta
