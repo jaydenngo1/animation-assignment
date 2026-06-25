@@ -9,12 +9,12 @@ window.bgcolor("black")
 t1 = turtle.Turtle()
 t1.shapesize(3)
 t1.color("#ff0000")
-t1.pensize(5)
+t1.pensize(15)
 
 t2 = turtle.Turtle()
 t2.shapesize(3)
 t2.color("#ff0000")
-t2.pensize(5)
+t2.pensize(15)
 
 iterations = 360
 
